@@ -335,6 +335,59 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2210170}
   m_Mesh: {fileID: 4300000, guid: f052017c336114049ae5dba6a8097ed9, type: 2}
+--- !u!1 &9034992
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9034993}
+  - component: {fileID: 9034994}
+  m_Layer: 0
+  m_Name: Creek barrier 07
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9034993
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9034992}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0.020640288, z: -0, w: 0.999787}
+  m_LocalPosition: {x: -5.2745757, y: 1.53, z: -2.0697732}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 897284739}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &9034994
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9034992}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.48, y: 5.7, z: 2.4497116}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &17198209
 GameObject:
   m_ObjectHideFlags: 0
@@ -640,6 +693,37 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 27421127}
   m_Mesh: {fileID: 4300000, guid: b3dd53ff124a78449972a30f25f44adf, type: 2}
+--- !u!1 &40927701
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 40927702}
+  m_Layer: 0
+  m_Name: Safe bank path
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &40927702
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 40927701}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -12.35, y: 0.545, z: 10.93}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1074995227}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &42317390
 GameObject:
   m_ObjectHideFlags: 0
@@ -1273,6 +1357,59 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 107331073}
   m_Mesh: {fileID: 4300000, guid: 616026df671df3746a33e497aeec4e4f, type: 2}
+--- !u!1 &111078060
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 111078061}
+  - component: {fileID: 111078062}
+  m_Layer: 0
+  m_Name: Creek barrier 03
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &111078061
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 111078060}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: 0.14425907, z: -0, w: 0.98954}
+  m_LocalPosition: {x: -5.449212, y: 1.53, z: -11.380682}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 897284739}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &111078062
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 111078060}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.48, y: 5.7, z: 2.5488179}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &121642808
 GameObject:
   m_ObjectHideFlags: 0
@@ -1745,6 +1882,59 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 140196591}
   m_Mesh: {fileID: 4300000, guid: 076d0774ee0417445aa68c400b96d79f, type: 2}
+--- !u!1 &146175817
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 146175818}
+  - component: {fileID: 146175819}
+  m_Layer: 0
+  m_Name: Creek barrier 18
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &146175818
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 146175817}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0.059778452, z: -0, w: 0.9982117}
+  m_LocalPosition: {x: -5.8617435, y: 1.53, z: 25.001389}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 897284739}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &146175819
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 146175817}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.48, y: 5.7, z: 2.3957095}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &151358868
 GameObject:
   m_ObjectHideFlags: 0
@@ -2280,6 +2470,59 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 177665459}
   m_Mesh: {fileID: 4300000, guid: 076d0774ee0417445aa68c400b96d79f, type: 2}
+--- !u!1 &192099330
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 192099331}
+  - component: {fileID: 192099332}
+  m_Layer: 0
+  m_Name: Creek barrier 01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &192099331
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 192099330}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0.070692755, z: -0, w: 0.99749815}
+  m_LocalPosition: {x: -5.8817987, y: 1.53, z: -16.036137}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 897284739}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &192099332
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 192099330}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.48, y: 5.7, z: 2.4712276}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &196596715
 GameObject:
   m_ObjectHideFlags: 0
@@ -3806,6 +4049,37 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 264481703}
   m_Mesh: {fileID: 4300000, guid: 076d0774ee0417445aa68c400b96d79f, type: 2}
+--- !u!1 &272569095
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 272569096}
+  m_Layer: 0
+  m_Name: Burrow approach
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &272569096
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 272569095}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -14.15, y: 0.545, z: 15.61}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1074995227}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &273274980
 GameObject:
   m_ObjectHideFlags: 0
@@ -4026,7 +4300,7 @@ GameObject:
   m_Component:
   - component: {fileID: 273594657}
   m_Layer: 0
-  m_Name: Demo clearing center
+  m_Name: Optional east demo clearing
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4041,7 +4315,7 @@ Transform:
   m_GameObject: {fileID: 273594656}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: -15.1, y: 0.565, z: 17.7}
+  m_LocalPosition: {x: 8.16, y: 0.545, z: 17.35}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4246,6 +4520,59 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1.6999999, y: 0.517824, z: 1.22}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &285930517
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 285930518}
+  - component: {fileID: 285930519}
+  m_Layer: 0
+  m_Name: Creek barrier 02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &285930518
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 285930517}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: 0.053824354, z: -0, w: 0.9985504}
+  m_LocalPosition: {x: -5.921762, y: 1.53, z: -13.70841}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 897284739}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &285930519
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 285930517}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.48, y: 5.7, z: 2.461293}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &293922819
 GameObject:
   m_ObjectHideFlags: 0
@@ -4386,7 +4713,7 @@ Transform:
   m_GameObject: {fileID: 297955299}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -23.28, y: 0, z: -0.48}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -5363,6 +5690,37 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 333491695}
   m_Mesh: {fileID: 4300000, guid: e98c1a15ef7611c4abd1e8433cac0e61, type: 2}
+--- !u!1 &350665398
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 350665399}
+  m_Layer: 0
+  m_Name: Creekside cover approach
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &350665399
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350665398}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.65, y: 0.7, z: 1.93}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2067522018}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &350690625
 GameObject:
   m_ObjectHideFlags: 0
@@ -5799,7 +6157,7 @@ GameObject:
   m_Component:
   - component: {fileID: 394764274}
   m_Layer: 0
-  m_Name: East patrol loop
+  m_Name: Scout patrol loop on starting bank
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6692,7 +7050,7 @@ Transform:
   m_GameObject: {fileID: 460731641}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.2, y: 0.565, z: 19.22}
+  m_LocalPosition: {x: -15.080001, y: 0.565, z: 18.74}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6761,7 +7119,7 @@ GameObject:
   m_Component:
   - component: {fileID: 468441375}
   m_Layer: 0
-  m_Name: 01  Bridge approach
+  m_Name: 01  East bridge approach
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6776,7 +7134,7 @@ Transform:
   m_GameObject: {fileID: 468441374}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.26, y: 0.54499996, z: 9.36}
+  m_LocalPosition: {x: -0.73, y: 0.54499996, z: 9.06}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7161,6 +7519,59 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 494432385}
   m_Mesh: {fileID: 4300000, guid: 52f6d9ff7200f6047ab48e8a13694a10, type: 2}
+--- !u!1 &495335018
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 495335019}
+  - component: {fileID: 495335020}
+  m_Layer: 0
+  m_Name: Creek barrier 13
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &495335019
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 495335018}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0.04222379, z: -0, w: 0.9991082}
+  m_LocalPosition: {x: -4.770818, y: 1.53, z: 13.704166}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 897284739}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &495335020
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 495335018}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.48, y: 5.7, z: 2.3875294}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &503154532
 GameObject:
   m_ObjectHideFlags: 0
@@ -7186,7 +7597,7 @@ Transform:
   m_GameObject: {fileID: 503154532}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8, y: 0.51, z: 19.53}
+  m_LocalPosition: {x: -15.280001, y: 0.51, z: 19.050001}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7587,6 +7998,59 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 513842461}
   m_Mesh: {fileID: 4300000, guid: a97dfcd2f56a1c24e97a6b3f48dcf2da, type: 2}
+--- !u!1 &518396718
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 518396719}
+  - component: {fileID: 518396720}
+  m_Layer: 0
+  m_Name: Creek barrier 08
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &518396719
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 518396718}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0.0233423, z: -0, w: 0.99972755}
+  m_LocalPosition: {x: -5.3770304, y: 1.53, z: 0.25795427}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 897284739}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &518396720
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 518396718}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.48, y: 5.7, z: 2.4502676}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &521656913
 GameObject:
   m_ObjectHideFlags: 0
@@ -8192,7 +8656,7 @@ GameObject:
   - component: {fileID: 543672015}
   - component: {fileID: 543672014}
   m_Layer: 0
-  m_Name: Primary-color bricks at demo clearing
+  m_Name: Primary-color bricks at optional east clearing
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8207,7 +8671,7 @@ Transform:
   m_GameObject: {fileID: 543672012}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 23.3, y: 0, z: -1.22}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11240,12 +11704,13 @@ GameObject:
   - component: {fileID: 747666646}
   - component: {fileID: 747666648}
   - component: {fileID: 747666647}
+  - component: {fileID: 747666649}
   m_Layer: 0
-  m_Name: Carrot 04
+  m_Name: Trail carrot 04
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 2147483647
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &747666646
 Transform:
@@ -11255,12 +11720,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 747666645}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0.9599922, z: 0, w: 0.2800269}
-  m_LocalPosition: {x: 5.2666416, y: 0.685, z: -0.6823956}
+  m_LocalRotation: {x: -0, y: 0.9599922, z: -0, w: 0.2800269}
+  m_LocalPosition: {x: 1.04, y: 0.538, z: -4.12}
   m_LocalScale: {x: 1.0549132, y: 1.0549132, z: 1.0549132}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1601628631}
+  m_Father: {fileID: 1356143094}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &747666647
 MeshRenderer:
@@ -11323,6 +11788,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 747666645}
   m_Mesh: {fileID: 4300000, guid: 6a753869b3b5f3e4098046ab50c38498, type: 2}
+--- !u!135 &747666649
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 747666645}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.37
+  m_Center: {x: 0, y: 0.28, z: 0}
 --- !u!1 &749877314
 GameObject:
   m_ObjectHideFlags: 0
@@ -12570,7 +13056,7 @@ Transform:
   m_GameObject: {fileID: 817410287}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.33, y: 0.545, z: 12.01}
+  m_LocalPosition: {x: -1.12, y: 0.7, z: 2.99}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12618,7 +13104,39 @@ Transform:
   - {fileID: 683049964}
   - {fileID: 1938562721}
   - {fileID: 797114799}
+  - {fileID: 1968583298}
   m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &820767520
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 820767521}
+  m_Layer: 0
+  m_Name: Bridge entry on the starting bank
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &820767521
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 820767520}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.19, y: 0.7, z: 9.36}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 915651266}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &822801148
 GameObject:
@@ -13449,6 +13967,57 @@ Transform:
   - {fileID: 910048004}
   m_Father: {fileID: 552893234}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &897284738
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 897284739}
+  m_Layer: 0
+  m_Name: Creek barriers with opening at bridge
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &897284739
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 897284738}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 192099331}
+  - {fileID: 285930518}
+  - {fileID: 111078061}
+  - {fileID: 1212076296}
+  - {fileID: 1714391432}
+  - {fileID: 1915532776}
+  - {fileID: 9034993}
+  - {fileID: 518396719}
+  - {fileID: 1832854785}
+  - {fileID: 1093037609}
+  - {fileID: 1519947064}
+  - {fileID: 1130760577}
+  - {fileID: 495335019}
+  - {fileID: 1426703746}
+  - {fileID: 1858009889}
+  - {fileID: 942457433}
+  - {fileID: 1278250725}
+  - {fileID: 146175818}
+  - {fileID: 1892995608}
+  - {fileID: 1413748120}
+  m_Father: {fileID: 1952447899}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &898480449
 GameObject:
   m_ObjectHideFlags: 0
@@ -13800,6 +14369,39 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 910048003}
   m_Mesh: {fileID: 4300000, guid: 8f9430d10ac80504c9e1408f3bf7ead5, type: 2}
+--- !u!1 &915651265
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 915651266}
+  m_Layer: 0
+  m_Name: 03  Cross the bridge safely
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &915651266
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 915651265}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 820767521}
+  - {fileID: 1487174681}
+  m_Father: {fileID: 1968583298}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &920004311
 GameObject:
   m_ObjectHideFlags: 0
@@ -14225,6 +14827,59 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 941025870}
   m_Mesh: {fileID: 4300000, guid: f052017c336114049ae5dba6a8097ed9, type: 2}
+--- !u!1 &942457432
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 942457433}
+  - component: {fileID: 942457434}
+  m_Layer: 0
+  m_Name: Creek barrier 16
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &942457433
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 942457432}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0.01452499, z: -0, w: 0.9998945}
+  m_LocalPosition: {x: -5.4056435, y: 1.53, z: 20.4825}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 897284739}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &942457434
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 942457432}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.48, y: 5.7, z: 2.3803988}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &945513724
 GameObject:
   m_ObjectHideFlags: 0
@@ -15027,6 +15682,37 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1.6999999, y: 0.48211202, z: 1.22}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &1026859899
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1026859900}
+  m_Layer: 0
+  m_Name: Burrow entrance
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1026859900
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1026859899}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -15.12, y: 0.545, z: 16.72}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1074995227}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1034103480
 GameObject:
   m_ObjectHideFlags: 0
@@ -15982,7 +16668,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1074987250}
   m_Layer: 0
-  m_Name: 04  Clearing junction
+  m_Name: 04  East trail junction
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15997,11 +16683,46 @@ Transform:
   m_GameObject: {fileID: 1074987249}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -12.06, y: 0.545, z: 11.17}
+  m_LocalPosition: {x: 1.67, y: 0.545, z: 7.41}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1135035931}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1074995226
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1074995227}
+  m_Layer: 0
+  m_Name: 04  Meet the second rabbit in the cave
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1074995227
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1074995226}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 40927702}
+  - {fileID: 272569096}
+  - {fileID: 1026859900}
+  - {fileID: 1852151954}
+  m_Father: {fileID: 1968583298}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1086535678
 GameObject:
@@ -16066,7 +16787,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1091803128}
   m_Layer: 0
-  m_Name: West bank lookout
+  m_Name: East creek lookout
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16081,7 +16802,7 @@ Transform:
   m_GameObject: {fileID: 1091803127}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.33, y: 0.62, z: 15.28}
+  m_LocalPosition: {x: -1.12, y: 0.62, z: 6.3}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -16099,6 +16820,59 @@ Transform:
   - {fileID: 228544429}
   m_Father: {fileID: 1938562721}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1093037608
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1093037609}
+  - component: {fileID: 1093037610}
+  m_Layer: 0
+  m_Name: Creek barrier 10
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1093037609
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1093037608}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0.049774714, z: -0, w: 0.99876046}
+  m_LocalPosition: {x: -5.9125338, y: 1.53, z: 4.9134088}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 897284739}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1093037610
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1093037608}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.48, y: 5.7, z: 2.4593194}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1101970269
 GameObject:
   m_ObjectHideFlags: 0
@@ -16612,6 +17386,59 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1128964626}
   m_Mesh: {fileID: 4300000, guid: f052017c336114049ae5dba6a8097ed9, type: 2}
+--- !u!1 &1130760576
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1130760577}
+  - component: {fileID: 1130760578}
+  m_Layer: 0
+  m_Name: Creek barrier 12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1130760577
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1130760576}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: 0.086237706, z: -0, w: 0.99627465}
+  m_LocalPosition: {x: -4.8722143, y: 1.53, z: 11.444721}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 897284739}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1130760578
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1130760576}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.48, y: 5.7, z: 2.4135582}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1131926099
 GameObject:
   m_ObjectHideFlags: 0
@@ -16741,7 +17568,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1135035931}
   m_Layer: 0
-  m_Name: West patrol loop
+  m_Name: Ranger patrol loop on starting bank
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18097,6 +18924,59 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1455198326}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1212076295
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1212076296}
+  - component: {fileID: 1212076297}
+  m_Layer: 0
+  m_Name: Creek barrier 04
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1212076296
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1212076295}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: 0.08509199, z: -0, w: 0.9963731}
+  m_LocalPosition: {x: -4.9022455, y: 1.53, z: -9.052955}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 897284739}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1212076297
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1212076295}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.48, y: 5.7, z: 2.4819314}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1215905937
 GameObject:
   m_ObjectHideFlags: 0
@@ -19635,6 +20515,59 @@ BoxCollider:
   m_Enabled: 1
   serializedVersion: 3
   m_Size: {x: 1.27, y: 0.82, z: 1.45}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &1278250724
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1278250725}
+  - component: {fileID: 1278250726}
+  m_Layer: 0
+  m_Name: Creek barrier 17
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1278250725
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1278250724}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0.063234374, z: -0, w: 0.9979987}
+  m_LocalPosition: {x: -5.5822105, y: 1.53, z: 22.741943}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 897284739}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1278250726
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1278250724}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.48, y: 5.7, z: 2.3976579}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1279313998
 GameObject:
@@ -21317,7 +22250,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1351799894}
   m_Layer: 0
-  m_Name: Fernbank bush hideout
+  m_Name: Scout trail bush hideout
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21332,7 +22265,7 @@ Transform:
   m_GameObject: {fileID: 1351799893}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.64278764, z: -0, w: 0.7660445}
-  m_LocalPosition: {x: 4.48, y: 0.38, z: 13.33}
+  m_LocalPosition: {x: 3.91, y: 0.535, z: 5.18}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -21340,6 +22273,42 @@ Transform:
   - {fileID: 1732091621}
   - {fileID: 1555655352}
   m_Father: {fileID: 1938562721}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1356143093
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1356143094}
+  m_Layer: 0
+  m_Name: 01  Collect five carrots
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1356143094
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1356143093}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1882150355}
+  - {fileID: 1926137120}
+  - {fileID: 1502394300}
+  - {fileID: 747666646}
+  - {fileID: 1976493498}
+  m_Father: {fileID: 1968583298}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1358584307
 GameObject:
@@ -21577,7 +22546,7 @@ Transform:
   m_GameObject: {fileID: 1366823785}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.16, y: 0.5, z: 19.15}
+  m_LocalPosition: {x: -15.120001, y: 0.5, z: 18.67}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -22182,6 +23151,59 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1408424386}
   m_Mesh: {fileID: 4300000, guid: 076d0774ee0417445aa68c400b96d79f, type: 2}
+--- !u!1 &1413748119
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1413748120}
+  - component: {fileID: 1413748121}
+  m_Layer: 0
+  m_Name: Creek barrier 20
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1413748120
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1413748119}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: 0.1431718, z: -0, w: 0.9896979}
+  m_LocalPosition: {x: -5.4285707, y: 1.53, z: 29.520277}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 897284739}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1413748121
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1413748119}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.48, y: 5.7, z: 2.476034}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1414492380
 GameObject:
   m_ObjectHideFlags: 0
@@ -22464,6 +23486,59 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1422617145}
   m_Mesh: {fileID: 4300000, guid: 131ae74931cbb5e428ef41bd670c26da, type: 2}
+--- !u!1 &1426703745
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1426703746}
+  - component: {fileID: 1426703747}
+  m_Layer: 0
+  m_Name: Creek barrier 14
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1426703746
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1426703745}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0.080990344, z: -0, w: 0.9967149}
+  m_LocalPosition: {x: -5.0512934, y: 1.53, z: 15.96361}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 897284739}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1426703747
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1426703745}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.48, y: 5.7, z: 2.4094796}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1440190097
 GameObject:
   m_ObjectHideFlags: 0
@@ -22867,7 +23942,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1455198325}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: 0.7193398, z: -0, w: 0.6946584}
+  m_LocalRotation: {x: -0, y: -0.7071068, z: -0, w: 0.7071068}
   m_LocalPosition: {x: -1.61, y: 0.69, z: 2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -23255,6 +24330,37 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1478502473}
   m_Mesh: {fileID: 4300000, guid: a97dfcd2f56a1c24e97a6b3f48dcf2da, type: 2}
+--- !u!1 &1487174680
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1487174681}
+  m_Layer: 0
+  m_Name: Bridge exit on the safe bank
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1487174681
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1487174680}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -8.45, y: 0.7, z: 9.36}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 915651266}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1493876103
 GameObject:
   m_ObjectHideFlags: 0
@@ -23513,12 +24619,13 @@ GameObject:
   - component: {fileID: 1502394300}
   - component: {fileID: 1502394302}
   - component: {fileID: 1502394301}
+  - component: {fileID: 1502394303}
   m_Layer: 0
-  m_Name: Carrot 03
+  m_Name: Trail carrot 03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 2147483647
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1502394300
 Transform:
@@ -23528,12 +24635,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1502394299}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0.88132477, z: 0, w: 0.47251102}
-  m_LocalPosition: {x: 5.280307, y: 0.685, z: -1.5116748}
+  m_LocalRotation: {x: -0, y: 0.88132477, z: -0, w: 0.47251102}
+  m_LocalPosition: {x: 1.49, y: 0.538, z: -5.98}
   m_LocalScale: {x: 1.0747823, y: 1.0747823, z: 1.0747823}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1601628631}
+  m_Father: {fileID: 1356143094}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1502394301
 MeshRenderer:
@@ -23596,6 +24703,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1502394299}
   m_Mesh: {fileID: 4300000, guid: 6a753869b3b5f3e4098046ab50c38498, type: 2}
+--- !u!135 &1502394303
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1502394299}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.37
+  m_Center: {x: 0, y: 0.28, z: 0}
 --- !u!1 &1513103068
 GameObject:
   m_ObjectHideFlags: 0
@@ -23817,6 +24945,59 @@ MonoBehaviour:
   m_ShadowLayerMask: 1
   m_RenderingLayers: 1
   m_ShadowRenderingLayers: 1
+--- !u!1 &1519947063
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1519947064}
+  - component: {fileID: 1519947065}
+  m_Layer: 0
+  m_Name: Creek barrier 11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1519947064
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1519947063}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: 0.07985036, z: -0, w: 0.99680686}
+  m_LocalPosition: {x: -5.841159, y: 1.53, z: 7.2411366}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 897284739}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1519947065
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1519947063}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.48, y: 5.7, z: 2.4777937}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1522562981
 GameObject:
   m_ObjectHideFlags: 0
@@ -24543,7 +25724,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1572224968}
   m_Layer: 0
-  m_Name: 03  Waterfall bank
+  m_Name: 03  Creek lookout path
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24558,7 +25739,7 @@ Transform:
   m_GameObject: {fileID: 1572224967}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -8.29, y: 0.7, z: 17.84}
+  m_LocalPosition: {x: -0.08, y: 0.7, z: 5.64}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -25234,11 +26415,6 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1882150355}
-  - {fileID: 1926137120}
-  - {fileID: 1502394300}
-  - {fileID: 747666646}
-  - {fileID: 1976493498}
   - {fileID: 1949038662}
   - {fileID: 1318547404}
   - {fileID: 1346451654}
@@ -26762,6 +27938,59 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1712317755}
   m_Mesh: {fileID: 4300000, guid: 48e7bd1d2ee6de14f9ebebebc8a5c8c8, type: 2}
+--- !u!1 &1714391431
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1714391432}
+  - component: {fileID: 1714391433}
+  m_Layer: 0
+  m_Name: Creek barrier 05
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1714391432
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1714391431}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0.041341163, z: -0, w: 0.9991451}
+  m_LocalPosition: {x: -4.7984715, y: 1.53, z: -6.7252274}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 897284739}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1714391433
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1714391431}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.48, y: 5.7, z: 2.4557111}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1720539196
 GameObject:
   m_ObjectHideFlags: 0
@@ -26772,7 +28001,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1720539197}
   m_Layer: 0
-  m_Name: Patrol 01 - west approach
+  m_Name: Patrol 01 - east lookout approach
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26787,7 +28016,7 @@ Transform:
   m_GameObject: {fileID: 1720539196}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0.53729963, z: 0, w: 0.8433914}
-  m_LocalPosition: {x: -10.8, y: 0.565, z: 10.2}
+  m_LocalPosition: {x: -1.05, y: 0.7, z: 4.91}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -28330,6 +29559,59 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1826475355}
   m_Mesh: {fileID: 4300000, guid: 52f6d9ff7200f6047ab48e8a13694a10, type: 2}
+--- !u!1 &1832854784
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1832854785}
+  - component: {fileID: 1832854786}
+  m_Layer: 0
+  m_Name: Creek barrier 09
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1832854785
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1832854784}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0.077655524, z: -0, w: 0.9969803}
+  m_LocalPosition: {x: -5.6138244, y: 1.53, z: 2.5856817}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 897284739}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1832854786
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1832854784}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.48, y: 5.7, z: 2.4761431}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1842787520
 GameObject:
   m_ObjectHideFlags: 0
@@ -28541,6 +29823,37 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1852055598}
   m_Mesh: {fileID: 4300000, guid: 076d0774ee0417445aa68c400b96d79f, type: 2}
+--- !u!1 &1852151953
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1852151954}
+  m_Layer: 0
+  m_Name: Reunion
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1852151954
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1852151953}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -15.24, y: 0.545, z: 19.05}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1074995227}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1855565774
 GameObject:
   m_ObjectHideFlags: 0
@@ -28633,6 +29946,59 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1855565774}
   m_Mesh: {fileID: 4300000, guid: ab350084255530d4d9e37fed50fad309, type: 2}
+--- !u!1 &1858009888
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1858009889}
+  - component: {fileID: 1858009890}
+  m_Layer: 0
+  m_Name: Creek barrier 15
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1858009889
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1858009888}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0.030210452, z: -0, w: 0.9995436}
+  m_LocalPosition: {x: -5.3044624, y: 1.53, z: 18.223055}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 897284739}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1858009890
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1858009888}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.48, y: 5.7, z: 2.3835769}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1858016931
 GameObject:
   m_ObjectHideFlags: 0
@@ -28989,6 +30355,37 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 4.15, y: 0.57, z: 3.3}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &1868128249
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1868128250}
+  m_Layer: 0
+  m_Name: Scout cover approach
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1868128250
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1868128249}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.11, y: 0.54499996, z: 5.07}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2067522018}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1868258245
 GameObject:
   m_ObjectHideFlags: 0
@@ -29355,12 +30752,13 @@ GameObject:
   - component: {fileID: 1882150355}
   - component: {fileID: 1882150357}
   - component: {fileID: 1882150356}
+  - component: {fileID: 1882150358}
   m_Layer: 0
-  m_Name: Carrot 01
+  m_Name: Trail carrot 01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 2147483647
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1882150355
 Transform:
@@ -29370,12 +30768,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1882150354}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0.48464566, z: 0, w: -0.8747106}
-  m_LocalPosition: {x: 5.335841, y: 0.685, z: -2.7111976}
-  m_LocalScale: {x: 0.97047675, y: 0.97047675, z: 0.97047675}
+  m_LocalRotation: {x: -0, y: 0.48464566, z: -0, w: -0.8747106}
+  m_LocalPosition: {x: 2.49, y: 0.38300002, z: -8.58}
+  m_LocalScale: {x: 0.9704768, y: 0.97047675, z: 0.9704768}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1601628631}
+  m_Father: {fileID: 1356143094}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1882150356
 MeshRenderer:
@@ -29438,6 +30836,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1882150354}
   m_Mesh: {fileID: 4300000, guid: 6a753869b3b5f3e4098046ab50c38498, type: 2}
+--- !u!135 &1882150358
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1882150354}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.37
+  m_Center: {x: 0, y: 0.28, z: 0}
 --- !u!1 &1882304285
 GameObject:
   m_ObjectHideFlags: 0
@@ -29740,6 +31159,59 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1890137669}
   m_Mesh: {fileID: 4300000, guid: 541f421e897db79498559f33eaf4d9ef, type: 2}
+--- !u!1 &1892995607
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1892995608}
+  - component: {fileID: 1892995609}
+  m_Layer: 0
+  m_Name: Creek barrier 19
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1892995608
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1892995607}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: 0.05182181, z: -0, w: 0.9986564}
+  m_LocalPosition: {x: -5.8799763, y: 1.53, z: 27.260834}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 897284739}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1892995609
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1892995607}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.48, y: 5.7, z: 2.3916442}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1894172022
 GameObject:
   m_ObjectHideFlags: 0
@@ -30064,6 +31536,59 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1915504600}
   m_Mesh: {fileID: 4300000, guid: a97dfcd2f56a1c24e97a6b3f48dcf2da, type: 2}
+--- !u!1 &1915532775
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1915532776}
+  - component: {fileID: 1915532777}
+  m_Layer: 0
+  m_Name: Creek barrier 06
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1915532776
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1915532775}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0.070682734, z: -0, w: 0.99749887}
+  m_LocalPosition: {x: -5.060725, y: 1.53, z: -4.3975}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 897284739}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1915532777
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1915532775}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.48, y: 5.7, z: 2.4712207}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1920619512
 GameObject:
   m_ObjectHideFlags: 0
@@ -30191,12 +31716,13 @@ GameObject:
   - component: {fileID: 1926137120}
   - component: {fileID: 1926137122}
   - component: {fileID: 1926137121}
+  - component: {fileID: 1926137123}
   m_Layer: 0
-  m_Name: Carrot 02
+  m_Name: Trail carrot 02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 2147483647
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1926137120
 Transform:
@@ -30206,12 +31732,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1926137119}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0.148341, z: 0, w: 0.98893625}
-  m_LocalPosition: {x: 5.2889752, y: 0.685, z: -2.0893514}
+  m_LocalRotation: {x: -0, y: 0.148341, z: -0, w: 0.98893625}
+  m_LocalPosition: {x: 2.07, y: 0.38300002, z: -7.21}
   m_LocalScale: {x: 1.094895, y: 1.094895, z: 1.094895}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1601628631}
+  m_Father: {fileID: 1356143094}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1926137121
 MeshRenderer:
@@ -30274,6 +31800,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1926137119}
   m_Mesh: {fileID: 4300000, guid: 6a753869b3b5f3e4098046ab50c38498, type: 2}
+--- !u!135 &1926137123
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1926137119}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.37
+  m_Center: {x: 0, y: 0.28, z: 0}
 --- !u!1 &1929666493
 GameObject:
   m_ObjectHideFlags: 0
@@ -31010,6 +32557,7 @@ Transform:
   - {fileID: 1086535679}
   - {fileID: 2095508299}
   - {fileID: 476534132}
+  - {fileID: 897284739}
   m_Father: {fileID: 817979126}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1958909033
@@ -31730,6 +33278,41 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.2, y: 0.87, z: 1.93}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &1968583297
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1968583298}
+  m_Layer: 0
+  m_Name: 14  Main mission route
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1968583298
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1968583297}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1356143094}
+  - {fileID: 2067522018}
+  - {fileID: 915651266}
+  - {fileID: 1074995227}
+  m_Father: {fileID: 817979126}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1976493497
 GameObject:
   m_ObjectHideFlags: 0
@@ -31741,12 +33324,13 @@ GameObject:
   - component: {fileID: 1976493498}
   - component: {fileID: 1976493500}
   - component: {fileID: 1976493499}
+  - component: {fileID: 1976493501}
   m_Layer: 0
-  m_Name: Carrot 05
+  m_Name: Trail carrot 05
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 2147483647
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1976493498
 Transform:
@@ -31756,12 +33340,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1976493497}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0.9613393, z: 0, w: -0.2753667}
-  m_LocalPosition: {x: 5.2375226, y: 0.685, z: -0.16088016}
-  m_LocalScale: {x: 0.89456385, y: 0.89456385, z: 0.89456385}
+  m_LocalRotation: {x: -0, y: 0.9613393, z: -0, w: -0.2753667}
+  m_LocalPosition: {x: 0.61, y: 0.53800005, z: -1.67}
+  m_LocalScale: {x: 0.8945638, y: 0.89456385, z: 0.8945638}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1601628631}
+  m_Father: {fileID: 1356143094}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1976493499
 MeshRenderer:
@@ -31824,6 +33408,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1976493497}
   m_Mesh: {fileID: 4300000, guid: 6a753869b3b5f3e4098046ab50c38498, type: 2}
+--- !u!135 &1976493501
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1976493497}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.37
+  m_Center: {x: 0, y: 0.28, z: 0}
 --- !u!1 &1983601307
 GameObject:
   m_ObjectHideFlags: 0
@@ -33470,6 +35075,39 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1.05, y: 0.28, z: 0.35}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &2067522017
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2067522018}
+  m_Layer: 0
+  m_Name: 02  Avoid hunters and use bush cover
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2067522018
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2067522017}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 350665399}
+  - {fileID: 1868128250}
+  m_Father: {fileID: 1968583298}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2069653175
 GameObject:
   m_ObjectHideFlags: 0
@@ -35032,19 +36670,19 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3311202235709515699, guid: 5051c3d79b3c8a440ad633a1b129f083, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.85
+      value: 2.9
       objectReference: {fileID: 0}
     - target: {fileID: 3311202235709515699, guid: 5051c3d79b3c8a440ad633a1b129f083, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.53
+      value: 0.375
       objectReference: {fileID: 0}
     - target: {fileID: 3311202235709515699, guid: 5051c3d79b3c8a440ad633a1b129f083, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.08
+      value: -9.9
       objectReference: {fileID: 0}
     - target: {fileID: 3311202235709515699, guid: 5051c3d79b3c8a440ad633a1b129f083, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.9563048
+      value: 0.09584576
       objectReference: {fileID: 0}
     - target: {fileID: 3311202235709515699, guid: 5051c3d79b3c8a440ad633a1b129f083, type: 3}
       propertyPath: m_LocalRotation.x
@@ -35052,7 +36690,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3311202235709515699, guid: 5051c3d79b3c8a440ad633a1b129f083, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.2923717
+      value: 0.9953962
       objectReference: {fileID: 0}
     - target: {fileID: 3311202235709515699, guid: 5051c3d79b3c8a440ad633a1b129f083, type: 3}
       propertyPath: m_LocalRotation.z
@@ -35105,7 +36743,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3518260852807585803, guid: 3813e5ca8ca236840a24a160ac3be7da, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -9.34
+      value: -1.1300001
       objectReference: {fileID: 0}
     - target: {fileID: 3518260852807585803, guid: 3813e5ca8ca236840a24a160ac3be7da, type: 3}
       propertyPath: m_LocalPosition.y
@@ -35113,7 +36751,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3518260852807585803, guid: 3813e5ca8ca236840a24a160ac3be7da, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 15.19
+      value: 6.21
       objectReference: {fileID: 0}
     - target: {fileID: 3518260852807585803, guid: 3813e5ca8ca236840a24a160ac3be7da, type: 3}
       propertyPath: m_LocalRotation.w
@@ -35187,7 +36825,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4071905169942399380, guid: 3d28030ec948d4048b027224b7afad0c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 8.63
+      value: -14.650001
       objectReference: {fileID: 0}
     - target: {fileID: 4071905169942399380, guid: 3d28030ec948d4048b027224b7afad0c, type: 3}
       propertyPath: m_LocalPosition.y
@@ -35195,7 +36833,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4071905169942399380, guid: 3d28030ec948d4048b027224b7afad0c, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 19.35
+      value: 18.87
       objectReference: {fileID: 0}
     - target: {fileID: 4071905169942399380, guid: 3d28030ec948d4048b027224b7afad0c, type: 3}
       propertyPath: m_LocalRotation.w
